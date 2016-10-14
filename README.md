@@ -1,4 +1,4 @@
-# Work in progress
+# Work in progress - Just an Idea at this point
 
 ## QnA_Bot
 a chat bot to do relevance evaluation
