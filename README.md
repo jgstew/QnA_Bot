@@ -3,6 +3,9 @@
 ## QnA_Bot
 a chat bot to do relevance evaluation
 
+## Alexa skill - a different option
+
+A different but related option would be to have an Amazon Alexa skill where you could ask alexa certain pre-determined queries and get the results, basically based upon existing Session Relevance queries and Analysis Property results.
 
 ### References:
 - https://howdy.ai/botkit/
