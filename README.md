@@ -13,6 +13,8 @@ A different but related option would be to have an Amazon Alexa skill where you 
 - https://howdy.ai/botkit/
 - https://github.com/howdyai/botkit
 - https://github.com/howdyai/botkit/blob/master/readme-slack.md#slack-specific-events
+- https://github.com/slackapi/node-slack-sdk
+- https://github.com/mishk0/slack-bot-api
 - http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
 - http://stackoverflow.com/questions/4797534/how-do-i-manually-fire-http-post-requests-with-firefox-or-chrome
  - https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo
