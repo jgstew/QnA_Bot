@@ -1,5 +1,7 @@
 # Work in progress - Just an Idea at this point
 
+Could use this as a starting point for the eval: https://developer.bigfix.com/relevance/evaluate/
+
 ## QnA_Bot
 a chat bot to do relevance evaluation
 
@@ -12,3 +14,5 @@ A different but related option would be to have an Amazon Alexa skill where you 
 - https://github.com/howdyai/botkit
 - https://github.com/howdyai/botkit/blob/master/readme-slack.md#slack-specific-events
 - http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
+- http://stackoverflow.com/questions/4797534/how-do-i-manually-fire-http-post-requests-with-firefox-or-chrome
+ - https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo
