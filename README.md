@@ -14,6 +14,7 @@ A different but related option would be to have an Amazon Alexa skill where you 
 ### References:
 - https://howdy.ai/botkit/
 - https://github.com/howdyai/botkit
+- https://github.com/howdyai/botkit-starter-slack
 - https://github.com/howdyai/botkit/blob/master/readme-slack.md#slack-specific-events
 - https://github.com/slackapi/node-slack-sdk
 - https://github.com/mishk0/slack-bot-api
