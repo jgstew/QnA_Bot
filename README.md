@@ -1,6 +1,8 @@
 # Work in progress - Just an Idea at this point
 
-Could use this as a starting point for the eval: https://developer.bigfix.com/relevance/evaluate/
+### Could use this as a starting point for the eval:
+- https://developer.bigfix.com/relevance/evaluate/
+- https://github.com/bigfix/developer.bigfix.com/tree/master/site/api/relevance-evaluate
 
 https://discuss.api.ai/t/trouble-creating-a-bot-to-answer-a-query-with-a-specific-format/3187
 
