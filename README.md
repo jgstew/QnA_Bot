@@ -2,6 +2,8 @@
 
 Could use this as a starting point for the eval: https://developer.bigfix.com/relevance/evaluate/
 
+https://discuss.api.ai/t/trouble-creating-a-bot-to-answer-a-query-with-a-specific-format/3187
+
 ## QnA_Bot
 a chat bot to do relevance evaluation
 
